@@ -1011,6 +1011,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 1rem;
 }
 
+.pb-7{
+  padding-bottom: 1.75rem;
+}
+
 .text-left{
   text-align: left;
 }
@@ -1594,6 +1598,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-top: -3.5rem;
   }
 
+  .lg\:mb-2{
+    margin-bottom: 0.5rem;
+  }
+
   .lg\:h-40{
     height: 10rem;
   }
@@ -1796,6 +1804,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-right: 4rem;
   }
 
+  .xl\:mb-3{
+    margin-bottom: 0.75rem;
+  }
+
   .xl\:h-48{
     height: 12rem;
   }
@@ -1944,6 +1956,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .\32xl\:-mt-12{
     margin-top: -3rem;
+  }
+
+  .\32xl\:mb-5{
+    margin-bottom: 1.25rem;
   }
 
   .\32xl\:h-64{
