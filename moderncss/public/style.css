@@ -1998,6 +1998,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 30rem;
   }
 
+  .\32xl\:w-52{
+    width: 13rem;
+  }
+
   .\32xl\:pt-24{
     padding-top: 6rem;
   }
